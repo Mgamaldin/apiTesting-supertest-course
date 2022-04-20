@@ -1,0 +1,17 @@
+{
+  "name": "apitesting-supertest-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "nock": "^13.1.1",
+    "supertest": "^6.1.4",
+    "jest": "^27.0.6"
+  }
+}
